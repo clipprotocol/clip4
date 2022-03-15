@@ -131,6 +131,16 @@ a:hover{ color:#FFCFCF; text-decoration:underline}
 	color: #36404F;
 	opacity: 0.6;
 }
+#c5t3a {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
+	color: #36404F;
+	opacity: 0.6;
+}
 #c5t4 {
 	font-family: 'Roboto';
 	font-style: normal;
@@ -172,12 +182,7 @@ a:hover{ color:#FFCFCF; text-decoration:underline}
     background-color: #FFFFFF;
     text-align: center;
 }
-#test2   {
-    background-color: #777777;
-}
-#test1 {
-    background-color: #666666;
-}
+
 #c4t2 {
     font-family: 'Roboto';
     font-style: normal;
