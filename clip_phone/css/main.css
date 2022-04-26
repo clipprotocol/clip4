@@ -197,7 +197,7 @@ span{
   color: #5967B0;
 }
 .v67_7 {
-  width: 240px;
+  width: 280px;
   height: 47px;
   opacity: 1;
   position: absolute;
@@ -948,14 +948,16 @@ span{
   overflow: hidden;
 }
 .v67_12 {
-  width: 159px;
-  height: 31px;
+  width: 200px;
+  height: 30px;
 
   opacity: 1;
   position: absolute;
   top: 6765px;
-  left: 304px;
+  left: 275px;
   overflow: hidden;
+  background-color: transparent
+
 }
 .v67_14 {
   width: 768px;

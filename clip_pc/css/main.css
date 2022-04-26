@@ -368,6 +368,19 @@ span{
   left: 241px;
   overflow: hidden;
 }
+.icon_4 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/icon4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 447px;
+  left: 301px;
+  overflow: hidden;
+}
 .v67_22 {
   width: 160px;
   height: 54px;
@@ -637,7 +650,7 @@ span{
   opacity: 1;
   position: absolute;
   top: 162px;
-  left: 247px;
+  left: 230px;
   overflow: hidden;
 }
 .icon_b2 {
@@ -650,7 +663,7 @@ span{
   opacity: 1;
   position: absolute;
   top: 162px;
-  left: 297px;
+  left: 280px;
   overflow: hidden;
 }
 .icon_b3 {
@@ -663,7 +676,20 @@ span{
   opacity: 1;
   position: absolute;
   top: 162px;
-  left: 347px;
+  left: 330px;
+  overflow: hidden;
+}
+.icon_b4 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/icon4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 162px;
+  left: 380px;
   overflow: hidden;
 }
 .v66_2521 {
