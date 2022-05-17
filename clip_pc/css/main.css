@@ -381,9 +381,19 @@ span{
   left: 301px;
   overflow: hidden;
 }
+.v67_222 {
+  margin: 15px;
+  margin-left: 35px;
+  font-family: Roboto;;
+  font-size: 16px;
+  text-align: left;
+  opacity: 1;
+}
 .v67_22 {
   width: 160px;
   height: 54px;
+
+  color:white;
   background: url("../images/v67_22.png");
   background-repeat: no-repeat;
   background-position: center center;
