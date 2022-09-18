@@ -420,7 +420,8 @@ span{
 .v73_62 {
   width: 820px;
   height: 647px;
-  background: url("../images/v73_62.png");
+  /*background: url("../images/v73_62.png");*/
+  background: url("../images/v73_62.gif");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -538,7 +539,7 @@ span{
   left: 0px;
   font-family: Roboto;
   font-weight: 600;
-  
+
   font-size: 32px;
   opacity: 1;
   text-align: left;
