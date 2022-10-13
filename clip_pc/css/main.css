@@ -420,12 +420,16 @@ span{
 .v73_62 {
   width: 820px;
   height: 647px;
-  background: url("../images/v73_62.png");
-  /*background: url("../images/v73_62.gif");*/
+  /*background: url("../images/v73_62.png");*/
+  background: url("../images/v73_62.gif");
+  /*filter:alpha(opacity=35);*/
+  /*-moz-opacity:0.15;*/
+  /*opacity:0.35;*/
+  /*background-color:#000;*/
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  opacity: 1;
+  /*opacity: 1;*/
   position: absolute;
   top: 111px;
   left: 576px;
